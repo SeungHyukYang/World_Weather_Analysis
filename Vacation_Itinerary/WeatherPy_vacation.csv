@@ -1,0 +1,192 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+35,Sassandra,CI,75.31,broken clouds,4.95,-6.0833,la terrasse
+36,Parit Buntar,MY,81.95,broken clouds,5.1267,100.4932,K Garden Hotel Parit Buntar
+39,Avarua,CK,78.85,scattered clouds,-21.2078,-159.775,Paradise Inn
+44,Jamestown,US,76.59,broken clouds,42.097,-79.2353,Hampton Inn & Suites Jamestown
+47,Kharan,PK,83.44,few clouds,28.5833,65.4167,Dil Aram Bangla
+53,Victoria,HK,85.96,overcast clouds,22.2855,114.1577,Mini Hotel Central
+56,Enshi,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+61,Guantanamo,CU,87.37,scattered clouds,20.1444,-75.2092,Hotel Guantánamo
+66,Hasaki,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+72,Butaritari,KI,82.81,few clouds,3.0707,172.7902,Isles Sunset Lodge
+75,Karak,PK,83.44,few clouds,28.5833,65.4167,Dil Aram Bangla
+83,Port-Gentil,GA,75.06,light rain,-0.7193,8.7815,Fengshui Residence
+87,Todos Santos,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+88,Kavieng,PG,83.08,moderate rain,-2.5744,150.7967,Nusa Island Retreat
+91,Saint-Louis,SN,83.52,scattered clouds,16.3333,-15.0,
+92,Westport,US,79.86,clear sky,41.1415,-73.3579,The Westport Inn
+93,Hithadhoo,MV,80.92,overcast clouds,-0.6,73.0833,Scoop Guest House
+103,Dasoguz,TM,77.11,clear sky,41.8363,59.9666,Ташауз Отел
+104,Huadian,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+111,Port Blair,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+113,Cabo San Lucas,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+133,Mataram,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+134,Puerto Escondido,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+138,Katsuura,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+142,Laem Sing,TH,81.57,overcast clouds,12.4816,102.0738,Laemsing Whitehouse Resort
+144,Neiba,DO,79.29,scattered clouds,18.5,-71.4167,Ángel David Cuevas Mendez
+145,Goderich,CA,76.21,few clouds,43.7501,-81.7165,Harmony Inn
+151,Kokopo,PG,83.08,moderate rain,-2.5744,150.7967,Nusa Island Retreat
+159,High Rock,BS,84.22,clear sky,26.6208,-78.2833,Hideaway Bahamas Beach Club
+164,Panzhihua,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+177,Paradwip,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+196,Xining,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+197,Matara,LK,77.76,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+199,San Patricio,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+203,Kirakira,SB,84.49,overcast clouds,-10.4544,161.9205,SanBiz Lodge
+211,Ibra,OM,88.27,scattered clouds,22.6906,58.5334,مزرعة راحة النفوس المنزفة
+213,Utiroa,KI,82.81,few clouds,3.0707,172.7902,Isles Sunset Lodge
+214,Ryotsu,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+216,Bengkulu,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+219,Phon,TH,81.57,overcast clouds,12.4816,102.0738,Laemsing Whitehouse Resort
+223,Nindiri,NI,77.16,overcast clouds,12.0039,-86.1213,Casa Vega Hostal
+225,Along,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+228,Harper,LR,76.23,broken clouds,4.375,-7.7169,Screensaver
+232,Nha Trang,VN,84.2,overcast clouds,12.25,109.1833,Sheraton Nha Trang Hotel & Spa
+235,Namatanai,PG,83.08,moderate rain,-2.5744,150.7967,Nusa Island Retreat
+249,Progreso,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+250,Naduvattam,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+254,Kalmunai,LK,77.76,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+258,Korla,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+263,Teacapan,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+269,San Quintin,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+271,Itoman,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+272,Labuhan,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+277,Jiangyou,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+281,Georgetown,US,76.59,broken clouds,42.097,-79.2353,Hampton Inn & Suites Jamestown
+282,Abu Samrah,SY,77.2,clear sky,35.3029,37.1841,
+287,Huayang,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+290,Hambantota,LK,77.76,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+297,Madang,PG,83.08,moderate rain,-2.5744,150.7967,Nusa Island Retreat
+304,Abu Kamal,SY,89.92,clear sky,34.4506,40.9171,محطة التلفاز
+308,Omboue,GA,75.06,light rain,-0.7193,8.7815,Fengshui Residence
+320,Guerrero Negro,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+322,Paharpur,PK,83.44,few clouds,28.5833,65.4167,Dil Aram Bangla
+330,Sorong,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+334,Urumqi,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+338,Ostuni,IT,77.59,clear sky,40.7276,17.5764,Hotel Relais La Sommità
+345,Trincomalee,LK,77.76,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+346,Marmarion,GR,83.52,clear sky,38.0484,24.3204,GIKAS APARTMENTS - ΓΚΙΚΑΣ Επιπλωμένα Διαμερίσματα
+349,Manokwari,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+351,Pozo Colorado,PY,75.04,clear sky,-23.4923,-58.7972,Hospedaje la Amistad
+357,Acapulco,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+358,Grand-Lahou,CI,75.31,broken clouds,4.95,-6.0833,la terrasse
+361,Yangjiang,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+362,Buncrana,US,79.86,clear sky,41.1415,-73.3579,The Westport Inn
+364,Tezu,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+367,Meulaboh,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+369,Takoradi,GH,75.43,scattered clouds,4.8845,-1.7554,Raybow International Hotel
+374,Katobu,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+375,Bengkalis,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+383,Marsaxlokk,MT,83.08,clear sky,35.8419,14.5431,Water's Edge
+385,Shu,KZ,76.23,clear sky,43.5983,73.7614,Shyngyzkhan
+386,Huazolotitlan,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+387,Monrovia,LR,76.23,broken clouds,4.375,-7.7169,Screensaver
+390,Sergeyevka,KZ,76.23,clear sky,43.5983,73.7614,Shyngyzkhan
+393,Cayenne,GF,83.08,clear sky,4.9333,-52.3333,Hôtel Le Dronmi
+394,Mayumba,GA,75.06,light rain,-0.7193,8.7815,Fengshui Residence
+398,Tura,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+406,Portobelo,PA,75.83,overcast clouds,9.55,-79.65,Scuba Portobelo
+407,Hunza,PK,83.44,few clouds,28.5833,65.4167,Dil Aram Bangla
+410,Ambon,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+413,Axim,GH,75.43,scattered clouds,4.8845,-1.7554,Raybow International Hotel
+414,Kefalos,GR,83.52,clear sky,38.0484,24.3204,GIKAS APARTMENTS - ΓΚΙΚΑΣ Επιπλωμένα Διαμερίσματα
+415,Gibara,CU,87.37,scattered clouds,20.1444,-75.2092,Hotel Guantánamo
+423,Kuah,MY,81.95,broken clouds,5.1267,100.4932,K Garden Hotel Parit Buntar
+425,Lixourion,GR,83.52,clear sky,38.0484,24.3204,GIKAS APARTMENTS - ΓΚΙΚΑΣ Επιπλωμένα Διαμερίσματα
+427,Mendahara,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+428,Isangel,VU,75.07,overcast clouds,-19.55,169.2667,Tanna Lodge
+430,Nichinan,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+431,Makat,KZ,76.23,clear sky,43.5983,73.7614,Shyngyzkhan
+432,Ewo,CG,76.08,overcast clouds,-0.8725,14.8206,Residence Elonda Ewo
+433,Lishui,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+434,Edosaki,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+439,Kuching,MY,81.95,broken clouds,5.1267,100.4932,K Garden Hotel Parit Buntar
+444,Banda Aceh,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+447,Salalah,OM,88.27,scattered clouds,22.6906,58.5334,مزرعة راحة النفوس المنزفة
+448,Barmer,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+450,Pedasi,PA,75.83,overcast clouds,9.55,-79.65,Scuba Portobelo
+458,Dingle,US,79.86,clear sky,41.1415,-73.3579,The Westport Inn
+459,Biak,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+473,Samarkand,UZ,77.74,clear sky,39.6542,66.9597,Ideal Hotel
+476,Daru,PG,83.08,moderate rain,-2.5744,150.7967,Nusa Island Retreat
+477,Palabuhanratu,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+481,Buchanan,LR,76.23,broken clouds,4.375,-7.7169,Screensaver
+482,Alamos,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+486,Nanzhang,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+487,Los Algarrobos,PA,75.83,overcast clouds,9.55,-79.65,Scuba Portobelo
+488,Miri,MY,81.95,broken clouds,5.1267,100.4932,K Garden Hotel Parit Buntar
+496,Zhangjiakou,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+497,Tabou,CI,75.31,broken clouds,4.95,-6.0833,la terrasse
+499,Oranjestad,AW,82.35,few clouds,12.524,-70.027,Divi Village Golf & Beach Resort
+501,Freeport,BS,84.22,clear sky,26.6208,-78.2833,Hideaway Bahamas Beach Club
+511,Siquijor,PH,83.1,light rain,9.2142,123.515,Cecilia's Guesthouse
+512,Turbat,PK,83.44,few clouds,28.5833,65.4167,Dil Aram Bangla
+518,Gigmoto,PH,83.1,light rain,9.2142,123.515,Cecilia's Guesthouse
+521,Perambalur,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+524,Popondetta,PG,83.08,moderate rain,-2.5744,150.7967,Nusa Island Retreat
+525,Dwarka,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+531,Tecoanapa,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+537,Madingou,CG,76.08,overcast clouds,-0.8725,14.8206,Residence Elonda Ewo
+538,Samarai,PG,83.08,moderate rain,-2.5744,150.7967,Nusa Island Retreat
+540,Rudbar,AF,83.57,clear sky,30.15,62.6,
+545,Bandarban,BD,75.2,light rain,22.1965,92.2262,Hotel Plaza
+546,Guangyuan,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+548,Sedam,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+549,Bacolod,PH,83.1,light rain,9.2142,123.515,Cecilia's Guesthouse
+554,Sur,OM,88.27,scattered clouds,22.6906,58.5334,مزرعة راحة النفوس المنزفة
+556,Constitucion,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+557,Erenhot,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+565,Sundargarh,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+567,Fuerte Olimpo,PY,75.04,clear sky,-23.4923,-58.7972,Hospedaje la Amistad
+568,Pak Phanang,TH,81.57,overcast clouds,12.4816,102.0738,Laemsing Whitehouse Resort
+572,Metro,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+577,Carbonia,IT,77.59,clear sky,40.7276,17.5764,Hotel Relais La Sommità
+584,Padang,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+590,Nemuro,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+591,Oytal,KZ,76.23,clear sky,43.5983,73.7614,Shyngyzkhan
+592,Auki,SB,84.49,overcast clouds,-10.4544,161.9205,SanBiz Lodge
+593,Amahai,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+601,Kritsa,GR,83.52,clear sky,38.0484,24.3204,GIKAS APARTMENTS - ΓΚΙΚΑΣ Επιπλωμένα Διαμερίσματα
+606,Kavaratti,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+608,Jishou,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+609,Atasu,KZ,76.23,clear sky,43.5983,73.7614,Shyngyzkhan
+610,Chingirlau,KZ,76.23,clear sky,43.5983,73.7614,Shyngyzkhan
+617,Nurota,UZ,77.74,clear sky,39.6542,66.9597,Ideal Hotel
+622,Asyut,EG,89.89,clear sky,27.181,31.1837,Florence Hotel Assiut
+624,Yanan,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+626,Cirebon,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+629,Wanning,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+632,Tecpan,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+634,Kepanjen,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+639,San Vicente,PH,83.1,light rain,9.2142,123.515,Cecilia's Guesthouse
+641,Quzhou,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+642,Naze,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+647,Providencia,MX,89.4,broken clouds,23.45,-110.2167,Hotel California Todos Santos
+653,Vila,VU,75.07,overcast clouds,-19.55,169.2667,Tanna Lodge
+655,Doha,SY,77.2,clear sky,35.3029,37.1841,
+659,Jieshi,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+662,Ndende,GA,75.06,light rain,-0.7193,8.7815,Fengshui Residence
+664,Puri,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+665,Sungaipenuh,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+668,Buala,SB,84.49,overcast clouds,-10.4544,161.9205,SanBiz Lodge
+669,Kurchum,KZ,76.23,clear sky,43.5983,73.7614,Shyngyzkhan
+670,Porbandar,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+673,Zhuanghe,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+675,Chifeng,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+682,Maumere,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+684,Pointe Michel,DM,81.16,clear sky,15.25,-61.3833,Castle Comfort Lodge Dive Dominica
+691,Jinchang,CN,75.51,moderate rain,30.3,109.4833,Moevenpick Enshi
+692,Savannah Bight,HN,86.05,broken clouds,16.45,-85.85,Villa on Dunbar Rock
+693,Les Cayes,HT,80.46,scattered clouds,18.2,-73.75,Villa Orphee
+695,Nagato,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+696,Shimoda,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
+699,Davila,PH,83.1,light rain,9.2142,123.515,Cecilia's Guesthouse
+700,Labuan,MY,81.95,broken clouds,5.1267,100.4932,K Garden Hotel Parit Buntar
+701,Puro,PH,83.1,light rain,9.2142,123.515,Cecilia's Guesthouse
+702,Filadelfia,PY,75.04,clear sky,-23.4923,-58.7972,Hospedaje la Amistad
+704,Kota Bahru,MY,81.95,broken clouds,5.1267,100.4932,K Garden Hotel Parit Buntar
+706,Kochinda,IN,81.68,overcast clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+708,Sola,VU,75.07,overcast clouds,-19.55,169.2667,Tanna Lodge
+713,Tual,ID,77.81,scattered clouds,-8.5833,116.1167,Hotel Santika Mataram
+718,Lipari,IT,77.59,clear sky,40.7276,17.5764,Hotel Relais La Sommità
